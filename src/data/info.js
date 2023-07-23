@@ -16,12 +16,12 @@ const data=[
     },
     {
         title:'ISO 27003',
-        description:'Es una guía que se centra en los aspectos críticos necesarios para el diseño e implementación con éxito de un SGSI de acuerdo ISO/IEC 27001.',
+        description:'Se centra en los aspectos críticos necesarios para el diseño e implementación con éxito de un SGSI de acuerdo ISO/IEC 27001.',
         img:'https://gestion.pensemos.com/hubfs/Blog_Pensemos_707x282_6-jpg.jpeg'
     },
     {
         title:'ISO 27004',
-        description:'Es una guía para el desarrollo y utilización de métricas y técnicas de medida aplicables para determinar la eficacia de un SGSI y de los controles o grupos de controles implementados según ISO/IEC 27001.',
+        description:'Guía para el desarrollo y utilización de métricas y técnicas de medida aplicables para determinar la eficacia de un SGSI y de los controles o grupos de controles implementados según ISO/IEC 27001.',
         img:'https://blog.hackmetrix.com/wp-content/uploads/2021/09/hackmetrix_metricas_indicadores_sgsi_iso27001.png'
     },
     {
@@ -151,7 +151,7 @@ const data=[
     },
     {
         title:'ISO 27036',
-        description:'Guía de seguridad en las relaciones con proveedores',
+        description:'Guía de seguridad en las relaciones con proveedores.',
         img:'https://cdn.thomasnet.com/insights-images/embedded-images/5b9ad440-36e7-4626-94a0-210a23e5781a/2b19983e-3bdf-4a6a-8b34-d0c94e52024e/FullHD/Top-computer-security-software-suppliers-usa-min.jpg'
     },
     {
